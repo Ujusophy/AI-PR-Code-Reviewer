@@ -2,3 +2,4 @@ PR Title
 PR Author
 PR Description
 PR Number
+https://api.github.com/repos/<repository.full_name>/pulls/<pull_request.number>/files
